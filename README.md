@@ -2,4 +2,5 @@
 
 a [Sails](http://sailsjs.org) application
 + /api/
++ /config/
 
