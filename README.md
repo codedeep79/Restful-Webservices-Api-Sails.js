@@ -1,1 +1,5 @@
-# Restful-Webservices-Api-Sails.js
+# Build Restful WebService Sails.js
+
+a [Sails](http://sailsjs.org) application
++ /api/
+
